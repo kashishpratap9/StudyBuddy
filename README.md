@@ -1,6 +1,5 @@
-# ISTD Hackathon 2025
 
-## Project Name-  Study Buddy
+# Project Name-  Study Buddy
 
 ## Empowering Computer Science Students with Comprehensive Tools for Knowledge and Career Growth.
 
